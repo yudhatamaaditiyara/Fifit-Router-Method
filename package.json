@@ -1,0 +1,10 @@
+{
+  "name": "fifit-router-method",
+  "description": "The Fifit Router Method",
+  "license": "Apache-2.0",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yudhatamaaditiyara/Fifit-Router-Method.git"
+  }
+}
